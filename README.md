@@ -13,4 +13,4 @@ The project maintains three levels of users:
 • Starbucks Corporation head (Admin) 
 • Customers
 
-For more information (Click here)[https://github.com/nilson01/Database_Management_System/blob/main/Project%20Report.pdf]
+For more information [Click here](https://github.com/nilson01/Database_Management_System/blob/main/Project%20Report.pdf)
